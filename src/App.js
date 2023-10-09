@@ -190,6 +190,7 @@ function App() {
                       objectPosition: "50% 50%",
                       transform: "translate(-50%, -50%) rotate(0deg)"
                     }}
+                    alt=""
                   />
                 </div>
               </div>
@@ -249,6 +250,7 @@ function App() {
                       objectPosition: "50% 50%",
                       transform: "translate(-50%, -50%) rotate(0deg)"
                     }}
+                    alt=""
                   />
                 </div>
               </div>
@@ -2743,6 +2745,7 @@ function App() {
                       objectPosition: "50% 50%",
                       transform: "translate(-50%, -50%) rotate(0deg)"
                     }}
+                    alt=""
                   />
                 </div>
               </div>
